@@ -1,0 +1,34 @@
+{
+    "translation": {
+      "txt_Login":"Đăng nhập",
+      "txt_register":"Đăng ký",
+      "txt_forgot_pwd":"Quên mật khẩu",
+      "txt_remenber_pwd" : "Ghi nhớ tài khoản",
+      "txt_input_acount":"Nhập tài khoản",
+      "txt_input_pwd":"Nhập mật khẩu",
+      "txt_notaccount":"Bạn chưa có tài khoản",
+      "select_language":"Ngôn Ngữ",
+      "Vie":"Tiếng Việt",
+      "En":"Tiếng Anh",
+
+      "txt_assets":"Tài Sản",
+      "txt_Stock":"Chứng Khoán",
+      "txt_cash":"Tiền mặt",
+
+      "txt_code":"Mã CK",
+      "txt_quantity":"Số lượng",
+      "txt_costprice":"Giá vốn",
+      "txt_price":"Giá thị trường",
+      "txt_interest_loss":"Lãi/Lỗ",
+      "txt_Debt": "Nợ",
+      "txt_btn_Buy":"Mua",
+      "txt_btn_sell":"Bán",
+      "txt_purchasing_ability":"Sức mua",
+      "txt_totalprice":"Tổng giá",
+      "txt_confirmation":"Xác nhận lệnh",
+      "txt_condition" : "Lệnh điều kiện",
+
+      "hello":"Xin Chào",
+      "this line is translated":"Đây là tiếng việt"
+    }
+  }

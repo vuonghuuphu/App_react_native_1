@@ -1,0 +1,38 @@
+{
+    "translation": {
+
+      "txt_Login":"Login",
+      "txt_register":"Register",
+      "txt_forgot_pwd":"Forgot password",
+      "txt_remenber_pwd":"Remenber Account",
+      "txt_input_acount":"Enter Account",
+      "txt_input_pwd":"Enter Password",
+      "txt_notaccount":"Do you not have an account",
+      "select_language":"Language",
+      "Vie":"Vietnam",
+      "En":"English",
+
+      "txt_assets":"Assets",
+      "txt_Stock":"Stock",
+      "txt_cash":"Cash",
+
+      "txt_code":"Code",
+      "txt_quantity":"Quantity",
+      "txt_costprice":"Cost Price",
+      "txt_price":"Price",
+      "txt_interest_loss":"Interest/losser",
+      "txt_debt": "Debt",
+      "txt_btn_Buy":"Buy",
+      "txt_btn_sell":"Sell",
+      "txt_purchasing_ability":"Purchasing ability",
+      "txt_totalprice" : "Toal Price",
+      "txt_confirmation":"Oder confirmation",
+      "txt_condition" : "Condition",
+      
+      "Help":"Help",
+
+
+      "hello":"Hello",
+      "this line is translated":"This line is translated"
+    }
+  }
